@@ -1,5 +1,5 @@
 ---
-heading: Great coffee with a conscience
+heading: We are going to rule the legal world
 path: /products
 templateKey: product-page
 title: NewLawTech
